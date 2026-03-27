@@ -41,7 +41,7 @@ It supports single-wire communication and allows chaining multiple LEDs together
 ### 1. Clone or Download
 
 ```bash
-git clone https://github.com/Dubemchukwu/WS2812C-2427-part.git
+git clone https://github.com/Dubemchukwu/WS2812C-2427-KiCad-Library.git
 ```
 
 ### 2. Add to KiCad
